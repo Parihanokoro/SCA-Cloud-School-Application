@@ -1,0 +1,22 @@
+{
+  "name": "sca-cloud-school-application",
+  "version": "1.0.0",
+  "description": "assessment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parihanokoro/SCA-Cloud-School-Application.git"
+  },
+  "author": "Parihan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "bugs": {
+    "url": "https://github.com/Parihanokoro/SCA-Cloud-School-Application/issues"
+  },
+  "homepage": "https://github.com/Parihanokoro/SCA-Cloud-School-Application#readme"
+}
